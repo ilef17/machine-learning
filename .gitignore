@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+# Generated models: each machine retrains them (avoids version conflicts)
+artifacts/*.joblib
+artifacts/*.json
+storage/*.db

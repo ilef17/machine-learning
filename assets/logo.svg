@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="36" viewBox="0 0 190 36">
+  <rect x="2" y="4" width="28" height="28" rx="7" fill="#2563eb"/>
+  <rect x="8" y="19" width="4" height="8" rx="1" fill="#fff"/>
+  <rect x="14" y="13" width="4" height="14" rx="1" fill="#fff"/>
+  <rect x="20" y="9" width="4" height="18" rx="1" fill="#fff"/>
+  <text x="40" y="24" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#f1f5f9">Census Insight</text>
+</svg>

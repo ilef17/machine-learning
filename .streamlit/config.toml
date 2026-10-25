@@ -1,0 +1,41 @@
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "viewer"
+
+# Light and dark themes: the "Settings" menu offers System / Light / Dark.
+# The sidebar follows the theme (light in Light, dark navy in Dark). Cards, borders and shadows are in style.py.
+[theme.light]
+primaryColor = "#2563eb"
+backgroundColor = "#f5f7fa"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#101828"
+borderColor = "#e4e7ec"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+baseRadius = "8px"
+showWidgetBorder = true
+
+[theme.light.sidebar]
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#eef2f7"
+textColor = "#101828"
+primaryColor = "#2563eb"
+borderColor = "#e4e7ec"
+
+[theme.dark]
+primaryColor = "#60a5fa"
+backgroundColor = "#0b1220"
+secondaryBackgroundColor = "#121a2c"
+textColor = "#e5e9f2"
+borderColor = "#243049"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+baseRadius = "8px"
+showWidgetBorder = true
+
+[theme.dark.sidebar]
+backgroundColor = "#0a101d"
+secondaryBackgroundColor = "#141d33"
+textColor = "#e2e8f0"
+primaryColor = "#60a5fa"
+borderColor = "#1b2640"
